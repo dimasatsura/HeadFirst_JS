@@ -4,7 +4,7 @@ function ageName(){
     if (age >17) {
         aletr ("Простите но эта страница не для детей")
     } else {
-        alett ("Добро пожаловать" + "name"+ "!")
+        alert ("Добро пожаловать" + "name"+ "!")
     }
 }   
 console.log (ageName);
