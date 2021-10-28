@@ -7,3 +7,4 @@ function ageName(){
         alett ("Добро пожаловать" + "name"+ "!")
     }
 }   
+console.log (ageName);
